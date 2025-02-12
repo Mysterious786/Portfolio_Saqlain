@@ -19,7 +19,7 @@ const About = () => {
                 {/* Text Section */}
                 <div className="flex-1">
                     <h1 className="text-5xl font-bold mb-4 transition-all duration-300 group-hover:text-yellow-400">
-                        Hi, I'm <span className="group-hover:text-blue-400">Saqlain</span>!
+                        Hi I am <span className="group-hover:text-blue-400">Saqlain</span>!
                     </h1>
                     <p className="text-lg text-gray-300 leading-relaxed">
                         <span className="transition-all duration-300 group-hover:text-red-400">
