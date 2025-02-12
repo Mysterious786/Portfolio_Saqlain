@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, SetStateAction } from "react";
+import { useState, SetStateAction } from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Navbar = () => {
